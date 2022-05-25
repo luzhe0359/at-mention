@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>仿微信 <span style="color:rgb(38,218,111)">@</span> 功能</h1>
+  <h1>zugelu - 仿微信 @ 功能</h1>
 </div>
 <p align="center">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
@@ -14,7 +14,7 @@
 
 ### demo地址
 
-[仿微信@功能](https://luzhe0359.github.io/at-mention/)
+[zugelu - 仿微信@功能](https://luzhe0359.github.io/at-mention/)
 
 ### 功能亮点
 
@@ -23,19 +23,25 @@
  - 兼容vue、react及原生js
  - 兼容pc端和移动端
 
+### 实现步骤
+
+[请参考原文描述 - 仿微信@功能](https://zugelu.com/detail/620e17a1166ed075a36c5cb0)
+
 ### 如何运行
-请确保您的计算机已经安装了 ```Node.js``` 以及 ```git```，当前项目主要用于展示说明文档
 
 1、克隆项目
 
 ```sh
 git clone https://github.com/luzhe0359/at-mention.git
 ```
-2、下载项目所需依赖
+2、下载依赖
+
 ```sh
 yarn install
 ```
-3、启动开发服务器
+3、启动项目
+
 ```sh
 yarn serve
 ```
+
